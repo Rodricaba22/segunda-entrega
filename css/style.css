@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&family=Roboto+Condensed&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Poppins:ital,wght@1,100&family=Roboto+Condensed&family=Roboto+Slab&display=swap');
+
+
+
+
+
+
+
+h2,h3{
+	font-family: 'Open Sans', sans-serif;
+	margin: 10px auto;
+}
+h2{
+	font-size: 2em;
+}
+h3{
+	font-size: 1.5em;
+}
+
+#h2{
+	font-family: 'Roboto Slab', serif;
+	font-size: 2em;
+	margin: 10px;
+	padding: 5px;
+	color: #1C8EE6;
+	background-image: url(../img/azul.jpg);
+	background-repeat: repeat-x;
+	background-attachment:no-repeat;
+
+
+
+}
+#parrafo{
+	font-size:1.5em;
+	padding: 20px;
+	margin: auto;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+}
+
+
+
+
+
+#botonera{
+	background-color: #11BBEC;
+	font-size: 1em;
+	font-family: 'Roboto Slab', serif;
+	
+
+
+
+
+
+}
+#botonera:hover{
+	color: #0971DC;
+}
+
+.btn-shop{
+	background-color: #16B7DF;
+
+}
+.btn-shop:hover{
+	background: linear-gradient(to top, rgba(22,183, 223, .5),rgba(22,183, 223,.8);
+	color: black;
+	cursor: pointer;
+	transition: all 3s;	
+
+}
+
